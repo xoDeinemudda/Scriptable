@@ -17,11 +17,12 @@ it saves last played Track and displays the last track progress state.
 # Playback stopped Mode:
 ![IMG_4996](https://raw.githubusercontent.com/xoDeinemudda/Scriptable/main/Widgets/Sootify/IMG_4996.png)
 
-Download the Script Spotify-player.js 
+Download the Script 
 [spotify-player.js](https://raw.githubusercontent.com/xoDeinemudda/Scriptable/main/IMG_4987.png)
 
-for the blurred Background, download the blur importModule.
+for the blurred Background, download the
 [blurred.js](https://gist.githubusercontent.com/xoDeinemudda/3ae1e2d454e952d5a27a80492154ba71/raw/dbce81207624da5dd66a1ff47c795b36200c4437/blurred.js)
+importModule
 
 you also need to download the [Shortcut](https://www.icloud.com/shortcuts/ccca4f1ae0bb4aca98df6cc9ab3b0607)
 to get the Acces- and Refresh Token.
