@@ -1,5 +1,8 @@
 # Spotify Player Widget
-for Scriptable
+Scriptable Widget 
+to play Spotify.
+It shows now Playing - Spotify Playback is playing and stopped/paused when there is no Spotify Playback with the last played track progress Status.
+You can see the two different Views here:
 
 ![IMG_4987](https://raw.githubusercontent.com/xoDeinemudda/Scriptable/main/IMG_4987.png)
 
