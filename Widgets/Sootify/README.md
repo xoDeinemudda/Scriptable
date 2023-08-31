@@ -24,6 +24,6 @@ for the blurred Background, download the
 [blurred.js](https://gist.githubusercontent.com/xoDeinemudda/3ae1e2d454e952d5a27a80492154ba71/raw/dbce81207624da5dd66a1ff47c795b36200c4437/blurred.js)
 importModule
 
-you also need to download the [Shortcut](https://www.icloud.com/shortcuts/ccca4f1ae0bb4aca98df6cc9ab3b0607)
-to get the Acces- and Refresh Token.
+download the [Shortcut](https://www.icloud.com/shortcuts/ccca4f1ae0bb4aca98df6cc9ab3b0607)
+to get the Access- and Refresh Token.
 To use Spotify Web API
