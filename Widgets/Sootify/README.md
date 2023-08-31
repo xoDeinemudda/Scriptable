@@ -18,7 +18,7 @@ it saves last played Track and displays the last track progress state.
 ![IMG_4996](https://raw.githubusercontent.com/xoDeinemudda/Scriptable/main/Widgets/Sootify/IMG_4996.png)
 
 Download the Script
-[spotify-player.js](https://raw.githubusercontent.com/xoDeinemudda/Scriptable/main/IMG_4987.png)
+[spotify-player.js](https://raw.githubusercontent.com/xoDeinemudda/Scriptable/main/Widgets/Sootify/spotify-player.js)
 
 for the blurred Background, download the
 [blurred.js](https://gist.githubusercontent.com/xoDeinemudda/3ae1e2d454e952d5a27a80492154ba71/raw/dbce81207624da5dd66a1ff47c795b36200c4437/blurred.js)
