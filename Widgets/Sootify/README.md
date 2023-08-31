@@ -4,7 +4,7 @@
 
 
 Download the Script Spotify-player.js 
-[here](Widgets/Sootify/spotify-player.js)
+[here](Sootify/spotify-player.js)
 
 
 
