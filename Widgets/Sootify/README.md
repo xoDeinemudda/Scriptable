@@ -1,7 +1,14 @@
 # Spotify Player Widget
-Scriptable Widget 
-to play Spotify.
-It shows now Playing - Spotify Playback is playing and stopped/paused when there is no Spotify Playback with the last played track progress Status.
+
+a Scriptable Widget 
+to play Music on Spotify.
+
+* now Playing Mode - Spotify Playback is currently playing
+  
+* Stopped/Paused Mode - no Spotify Playback
+  
+it saves last played Track displays the last track progress state.
+
 You can see the two different Views here:
 
 ![IMG_4987](https://raw.githubusercontent.com/xoDeinemudda/Scriptable/main/IMG_4987.png)
